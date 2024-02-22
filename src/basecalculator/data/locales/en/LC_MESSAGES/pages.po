@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-21 08:42+0300\n"
+"PO-Revision-Date: 2024-02-21 08:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:17
+msgid "About"
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:20
+msgid "Calculator"
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:25
+msgid ""
+"The calculator has two modes: simple and advanced.\n"
+"In simple mode, the calculator can perform operations such as: arithmetic "
+"operations, sign change, percentages, squaring, square master.\n"
+"In advanced mode, the calculator can perform such operations as: functions "
+"of a simple calculator, trigonometric functions, exponentiation, ogarithms "
+"(natural and decimal), modulus of a number, factorial of a number, "
+"translation into number systems (2, 3, 4, 5, 6, 7, 8)\n"
+"The calculator has several params for design, among which there is a kids. \n"
+"You can also change the interface language to Russian.\n"
+"The program was created and has an MIT license.\n"
+"Creators:\n"
+"Glushenkov Dmitrii Alekseevich"
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:40
+msgid "Operating system: "
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:44
+msgid "Username: "
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:57
+msgid "Help"
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:61
+msgid ""
+"This window is designed to answer some questions about the application. \n"
+"\n"
+"СALCULATOR\n"
+"\n"
+"In this tab, you can copy or paste the values. To copy the item you need, "
+"select it with the left mouse button, go to the \"Calculator\" tab and click "
+"\"Copy\". To insert the element you need, select it with the left mouse "
+"button, go to the Calculator tab and click \"Paste\".\n"
+"\n"
+"VIEW\n"
+"\n"
+"To switch the calculator view, go to the \"View\" tab and select the mode "
+"you need. If you want to find out how the modes differ from each other, go "
+"to the \"About\" tab and select \"About\". To change the theme of the "
+"calculator, go to the \"View\" tab, then hover over the \"View\" tab and "
+"select the topic you are interested in. You can also change the language to "
+"English in this tab. Go to the \"View\" tab, then hover over the "
+"\"Language\" tab and select the language you are interested in.\n"
+"\n"
+"ABOUT\n"
+"\n"
+"In this tab, you can read this manual in the Help tab. If you want to learn "
+"more about the program, open the About tab.\n"
+"\n"
+"Some functions:\n"
+"ln(x) — natural logarithm\n"
+"log(x) - logarithm\n"
+"abs(x) — module\n"
+"sqrt(x) — master\n"
+"x^y — x power y \n"
+"of x! — factorial(x)\n"
+msgstr ""
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\pages.py:114
+msgid "Cancel"
+msgstr ""

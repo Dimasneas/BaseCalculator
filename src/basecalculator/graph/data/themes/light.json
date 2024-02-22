@@ -1,0 +1,48 @@
+{
+  "app": {
+    "bg": "#D0DABE",
+    "fg": "black"
+  },
+  "menu": {
+    "bg": "#B3E0C4",
+    "fg": "black",
+    "abg": "#68D490",
+    "afg": "black"
+  },
+  "calculator": {
+    "actions": {
+      "bg": "#78DBE2",
+      "fg": "#000"
+    },
+    "numbers": {
+      "bg": "#9FE2BF",
+      "fg": "#000"
+    },
+    "num_sys": {
+      "bg": "#AFDAFC",
+      "fg": "#000"
+    },
+    "ex_actions": {
+      "bg": "#AFDAFC",
+      "fg": "#000"
+    },
+    "font": ["Times New Roman", 17],
+    "custom": {
+      "=": {
+        "bg": "#9FE2BF",
+        "fg": "#000"
+      }
+    },
+    "labels": {
+      "font": ["Times New Roman", 30]
+    }
+  },
+  "settings": {
+    "bg": "#D0DABE",
+    "fg": "black",
+    "btn": {
+      "bg": "white",
+      "fg": "black"
+    }
+  }
+}

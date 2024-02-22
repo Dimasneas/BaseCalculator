@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-21 08:41+0300\n"
+"PO-Revision-Date: 2024-02-21 08:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:45
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:58
+msgid "Copy"
+msgstr "Копировать"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:63
+msgid "Paste"
+msgstr "Вставить"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:70
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:107
+msgid "Expand"
+msgstr "Расширенный"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:82
+msgid "Themes"
+msgstr "Темы"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:85
+msgid "Русский"
+msgstr "Русский"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:86
+msgid "English"
+msgstr "English"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:88
+msgid "Language"
+msgstr "Язык"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:91
+msgid "Help"
+msgstr "Помощь"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:92
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:97
+msgid "About"
+msgstr "О программе"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:95
+msgid "File"
+msgstr "Файл"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:96
+msgid "View"
+msgstr "Вид"
+
+#: D:\Data\Doc\MAGU\Study\coolcalc\src\coolcalc\app.py:102
+msgid "Basic"
+msgstr "Базовый"
