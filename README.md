@@ -1,7 +1,7 @@
 # BaseCalculator
 
-[![PyPI - Version](https://img.shields.io/pypi/v/basecalculator.svg)](https://test.pypi.org/project/basecalculator)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/basecalculator.svg)](https://test.pypi.org/project/basecalculator)
+[![PyPI - Version](https://img.shields.io/badge/testpypy-0.0.2-g)](https://test.pypi.org/project/basecalculator)
+[![PyPI - Python Version](https://img.shields.io/badge/python-3.10-blue)](https://test.pypi.org/project/basecalculator)
 
 -----
 
